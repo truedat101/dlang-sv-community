@@ -8,7 +8,7 @@ We thing the Dlang community needs to broaden it's approach to a wider audience,
 
 # What's Wrong with the Community
 
-Nothing.  The community is generally welcoming, and the people at the top of the org are brilliant and also helpful, and humble.  However, there is a pattern in the community that seems to rule by consensus, a bit of Europrean world view and approach, and insular nature which doesn't seem to do anything to grow beyond where it is at today.  
+Nothing.  The community is generally welcoming, and the people at the top of the org are brilliant and also helpful, and humble.  However, there is a pattern in the community that seems to rule by consensus, a bit of Europrean world view and approach, and insular nature which doesn't seem to do anything to grow beyond where it is at today.  I would argue that there are no business people involved in the community, partially because there is no large scale commercial use, and therefore, no business plan for keeping Dlang sustainabile for years to come.  Doesn't mean D won't keep moving along, but without a plan, things happen.  Sometimes things happen the right way, sometimes they don't.
 
 # Criteria For Grading Language as Enterprise Ready
 
