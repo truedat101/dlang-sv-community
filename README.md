@@ -4,7 +4,7 @@ A repository for general stuff related to the Dlang SV Meetup: http://www.meetup
 
 # Call To Action
 
-We thing the Dlang community needs to broaden it's approach to a wider audience, and get people (1) using D (2) building high quality modules for D (3) making money with D (4) teaching D in schools as a first language (5) building products with D.
+We thing the Dlang community needs to broaden it's approach to a wider audience, and get people (1) using D (2) building high quality modules for D (3) making money with D (4) teaching D in schools as a first language (5) building products with D.  Please jump over to the issues section, grab an issue, or make a comment, even add a new issue.  Are we wrong about anything?  Let us know.  See issues: https://github.com/truedat101/dlang-sv-community/issues
 
 # What's Wrong with the Community
 
