@@ -12,15 +12,15 @@ Nothing.  The community is generally welcoming, and the people at the top of the
 
 # Criteria For Grading Language as Enterprise Ready
 
-- [] toolchain quality
-- [] IDE support
-- [] documentation
-- [] platform support
-- [] sustainable community
-- [] fair licensing term
-- [] significant technical merits
-- [] actual adoption in the enterprise or research community
-- [] and commercial support available. 
-- [] active technical contributors
-- [] Companies paying people to use the programming language to build commercial products
-- [] Companies paying people to work on the programming language/oss project
+- [ ] toolchain quality
+- [ ] IDE support
+- [ ] documentation
+- [ ] platform support
+- [ ] sustainable community
+- [ ] fair licensing term
+- [ ] significant technical merits
+- [ ] actual adoption in the enterprise or research community
+- [ ] and commercial support available. 
+- [ ] active technical contributors
+- [ ] Companies paying people to use the programming language to build commercial products
+- [ ] Companies paying people to work on the programming language/oss project
